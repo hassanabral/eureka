@@ -1,5 +1,5 @@
 # Eureka
-An idea sharing platform where both the developers and general public can propose app idea. [Visit](https://eureka123.herokuapp.com/)
+An idea sharing platform where both the developers and general public can propose app idea.
 
 ### Project Overview
 
